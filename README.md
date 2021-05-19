@@ -1,4 +1,4 @@
-# :v: Buna ziua 
+# :v: Buna Ziua 
 ### I'm HARSHITA GUPTA :dove:
 
 - :woman_technologist: I’m currently working as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India.
