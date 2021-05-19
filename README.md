@@ -7,7 +7,8 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - :student: Student at BITS-Pilani, Pilani Campus.
 - :construction_worker_woman: Pursuing B.E. Civil.
 - 🌱 I’m currently learning PowerBI.
-- 🤔 I’m looking for help with NLP
+- 🤔 I’m looking for help with NLP.
+- :snowman: Ask me about ML and DL.
 - :e-mail: How to reach me: **hrsht1998@gmail.com**
 - :chains: Connect to me on <a href="https://www.linkedin.com/in/harshita-gupta-b3b2a3186/">Linkedin</a>
 - :women_wrestling: I prefer Tensorflow over Pytorch.
