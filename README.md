@@ -1,6 +1,6 @@
 # :v: Buna Ziua 
 ## I'm Harshita Gupta! :dove:
-###### Machine learning and Deep learning enthusiast who loves reading, learning, and researching about how AI has revolutionized the human-like task, making it possible to learn from its mistakes.
+Machine learning and Deep learning enthusiast who loves reading, learning, and researching about how AI has revolutionized the human-like task, making it possible to learn from its mistakes.
 #### About Me ⚡
 - :woman_technologist: I’m currently working as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India.
 - :lotus_position: I’m currently working on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
