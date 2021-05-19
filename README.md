@@ -1,5 +1,5 @@
 # :v: Buna Ziua 
-### I'm HARSHITA GUPTA :dove:
+## I'm Harshita Gupta! :dove:
 
 - :woman_technologist: I’m currently working as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India.
 - :lotus_position: I’m currently working on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
