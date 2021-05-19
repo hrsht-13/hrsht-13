@@ -22,3 +22,4 @@
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
 
+https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff" alt="hrsht-13's github stats
