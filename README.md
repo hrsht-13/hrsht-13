@@ -17,7 +17,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - :women_wrestling: I prefer Tensorflow over Pytorch.
 - :farmer: Currently a Kaggle Contributor. (Goal: Competition Expert before Grad)
 - :bookmark_tabs: Recent Article : <a href="https://dockship.io/articles/602e410afa687b1b152c8c19/pondering-over-the-methods-to-clean-data-in-ml-problems.">Pondering over the methods to clean data in ML-problems.</a>
-- :woman_juggling: Fun fact: I keep learning new techniques by participanting in the weekly/monthly Hackathons. 
+- :woman_juggling: Fun Fact: I keep learning new techniques by participanting in the weekly/monthly Hackathons. 
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
