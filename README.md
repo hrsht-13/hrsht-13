@@ -1,5 +1,7 @@
 # :v: Buna Ziua 
 ## I'm Harshita Gupta! :dove:
+![](https://komarev.com/ghpvc/?username=hrsht-13&color=green)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 Loves reading, learning, and researching about how AI has revolutionized the human-like task, making it possible to learn from its mistakes.
 ### About Me ⚡
 - :woman_technologist: I’m currently working as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India.
