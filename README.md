@@ -27,7 +27,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 ![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff" alt="hrsht-13's github stats"/>
 
