@@ -9,7 +9,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - :lotus_position: I’m currently working on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
 - :student: Student at BITS-Pilani, Pilani Campus.
 - :construction_worker_woman: Pursuing B.E. Civil.
-- 🌱 I’m currently learning PowerBI.
+- 🌱 I’m currently learning Azure.
 - 🤔 I’m looking for help with NLP.
 - :snowman: Ask me about ML and DL.
 - :e-mail: How to reach me: **hrsht1998@gmail.com**
@@ -27,6 +27,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 ![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff" alt="hrsht-13's github stats"/>
 
