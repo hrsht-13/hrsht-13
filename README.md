@@ -5,11 +5,11 @@
 
 Loves reading, learning, and researching about how AI has revolutionized the human-like task, making it possible to learn from its mistakes.
 ### About Me ⚡
-- :woman_technologist: I’m currently working as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India.
-- :lotus_position: I’m currently working on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
+- :woman_technologist: I'm currently working as Python Developer at Wiiliam ONeil's.
+- :lotus_position: I worked as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India, on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
 - :student: Student at BITS-Pilani, Pilani Campus.
 - :construction_worker_woman: Pursuing B.E. Civil.
-- 🌱 I’m currently learning Azure.
+- 🌱 I’m currently learning Market Analytics.
 - 🤔 I’m looking for help with NLP.
 - :snowman: Ask me about ML and DL.
 - :e-mail: How to reach me: **hrsht1998@gmail.com**
