@@ -15,7 +15,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - :e-mail: How to reach me: **hrsht1998@gmail.com**
 - :chains: Connect to me on <a href="https://www.linkedin.com/in/harshita-gupta-b3b2a3186/">Linkedin</a>
 - :women_wrestling: I prefer Tensorflow over Pytorch.
-- :farmer: Currently a Kaggle Contributor. (Goal: Competition Expert before Grad)
+- :farmer: Currently helping people with their queries on the subject at DPhi Community.
 - :bookmark_tabs: Recent Article : <a href="https://dockship.io/articles/602e410afa687b1b152c8c19/pondering-over-the-methods-to-clean-data-in-ml-problems.">Pondering over the methods to clean data in ML-problems.</a>
 - :woman_juggling: Fun Fact: I keep learning new techniques by participanting in the weekly/monthly Hackathons. 
 
