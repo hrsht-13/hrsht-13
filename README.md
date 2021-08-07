@@ -36,5 +36,5 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 ![Harshita's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats)
 
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)](https://git.io/streak-stats)
+![A's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)](https://git.io/streak-stats)
 
