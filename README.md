@@ -35,4 +35,4 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 
 ![Harshita's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+
