@@ -22,14 +22,21 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - :woman_juggling: Fun Fact: I keep learning new techniques by participanting in the weekly/monthly Hackathons. 
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
+
 
 [![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hrsht-13&theme=react-dark&hide_border=true)](https://github.com/hrsht-13/)
 ![Harshita's github stats](https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes")[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)](https://git.io/streak-stats)
