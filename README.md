@@ -15,7 +15,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - 🤔 I’m looking for help with NLP.
 - :snowman: Ask me about ML and DL.
 - :e-mail: How to reach me: **hrsht1998@gmail.com**
-- :chains: Connect to me on [![Linkedin Badge](https://img.shields.io/badge/-Harshita_Gupta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-gupta-b3b2a3186/)]
+- :chains: Connect to me on ![Linkedin Badge](https://img.shields.io/badge/-Harshita_Gupta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-gupta-b3b2a3186/)
 - :women_wrestling: I prefer Tensorflow over Pytorch.
 - :farmer: Currently helping people with their queries on the subject at DPhi Community.
 - :bookmark_tabs: Recent Article : <a href="https://dockship.io/articles/602e410afa687b1b152c8c19/pondering-over-the-methods-to-clean-data-in-ml-problems.">Pondering over the methods to clean data in ML-problems.</a>
