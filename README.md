@@ -1,5 +1,6 @@
-# :v: Buna Ziua 
-## I'm Harshita Gupta! :dove:
+<!-- # :v: Buna Ziua 
+## I'm Harshita Gupta! :dove: -->
+<h1 align="center">Buna Ziua <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Harshita!</h1>
 ![](https://komarev.com/ghpvc/?username=hrsht-13&color=green)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
