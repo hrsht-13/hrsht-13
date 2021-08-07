@@ -29,6 +29,8 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
 
+[![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hrsht-13&theme=react-dark&hide_border=true)](https://github.com/hrsht-13/)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff" alt="hrsht-13's github stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
