@@ -31,10 +31,10 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 
 [![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hrsht-13&theme=react-dark&hide_border=true)](https://github.com/hrsht-13/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff" alt="hrsht-13's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff" alt="hrsht-13's github stats"/> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)](https://git.io/streak-stats)
 
 <!-- ![Harshita's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrsht-13&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats)
  -->
 
-![A's github stats](https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff") [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)](https://git.io/streak-stats)
-
+<!-- ![A's github stats](https://github-readme-stats.vercel.app/api?username=hrsht-13&show_icons=true&theme=dark&count_private=true&icon_color=fffffff&text_color=ffffff") [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes)](https://git.io/streak-stats)
+ -->
