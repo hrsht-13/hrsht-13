@@ -14,7 +14,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - 🌱 I’m currently learning Market Analytics.
 - 🤔 I’m looking for help with NLP.
 - :snowman: Ask me about ML and DL.
-- :e-mail: How to reach me: ![](https://img.shields.io/badge/hrsht1998-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hrsht1998@gmail.com)(mailto:hrsht1998@gmail.com)
+- :e-mail: How to reach me: [![](https://img.shields.io/badge/hrsht1998-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hrsht1998@gmail.com)](mailto:hrsht1998@gmail.com)
 - :chains: Connect to me on ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-gupta-b3b2a3186/)
 - :women_wrestling: I prefer Tensorflow over Pytorch.
 - :farmer: Currently helping people with their queries on the subject at DPhi Community.
