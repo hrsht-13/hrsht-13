@@ -1,6 +1,6 @@
 <!-- # :v: Buna Ziua 
 ## I'm Harshita Gupta! :dove: -->
-<h1>Buna Ziua <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /></h1>
+<h1>Salve <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /></h1>
 <h1>I'm Harshita Gupta!</h1>
 
 ![](https://komarev.com/ghpvc/?username=hrsht-13&color=green)
@@ -8,19 +8,20 @@
 
 Loves reading, learning, and researching about how AI has revolutionized the human-like task, making it possible to learn from its mistakes.
 ## About Me ⚡
-- :woman_technologist: I'm currently working as Python Developer at Wiiliam ONeil's.
+- :sassy_woman: Currently working as Data Science Intern at Subex - AI Labs.
+- :woman_technologist: I worked worked as Python Developer at William O'Neil's.
 - :lotus_position: I worked as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India, on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
-- :student: Student at BITS-Pilani, Pilani Campus.
-- :construction_worker_woman: Pursuing B.E. Civil.
-- 🌱 I’m currently learning Market Analytics.
+- :student: Final year at BITS-Pilani, Pilani Campus.
+- 🌱 I’m currently learning Inductive Graph Networks (GraphSage).
 - 🤔 I’m looking for help with NLP.
-- :snowman: Ask me about ML and DL.
+- :snowman: Ask me about ML and DL and GNN.
 - :e-mail: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-hrsht1998-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hrsht1998@gmail.com)](mailto:hrsht1998@gmail.com)
 - :chains: Connect to me on [![Linkedin Badge](https://img.shields.io/badge/-Harshita_Gupta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-gupta-b3b2a3186/)](https://www.linkedin.com/in/harshita-gupta-b3b2a3186/)
-- :women_wrestling: I prefer Tensorflow over Pytorch.
-- :farmer: Currently helping people with their queries on the subject at DPhi Community.
+- :women_wrestling: I prefer Tensorflow over Pytorch till my current intern.
+- :farmer: Helped 200+ people with their queries on the subject at DPhi Community.
 - :bookmark_tabs: Recent Article : <a href="https://dockship.io/articles/602e410afa687b1b152c8c19/pondering-over-the-methods-to-clean-data-in-ml-problems.">Pondering over the methods to clean data in ML-problems.</a>
 - :woman_juggling: Fun Fact: I keep learning new techniques by participanting in the weekly/monthly Hackathons. 
+- :page_with_curl: Updated Resume : <a href="https://drive.google.com/file/d/1wcvVxtR0RZrwsnGRQn3q-BfVGr-bi__h/view?usp=sharing"> RESUME </a>
 
 
 ### Languages
