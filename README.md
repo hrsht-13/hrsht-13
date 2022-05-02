@@ -9,7 +9,7 @@
 Loves reading, learning, and researching about how AI has revolutionized the human-like task, making it possible to learn from its mistakes.
 ## About Me ⚡
 - :sassy_woman: Currently working as Data Science Intern at Subex - AI Labs.
-- :woman_technologist: I worked worked as Python Developer at William O'Neil's.
+- :woman_technologist: I worked as Python Developer at William O'Neil's.
 - :lotus_position: I worked as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India, on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
 - :student: Final year at BITS-Pilani, Pilani Campus.
 - 🌱 I’m currently learning Inductive Graph Networks (GraphSage).
