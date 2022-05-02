@@ -20,7 +20,7 @@ Loves reading, learning, and researching about how AI has revolutionized the hum
 - :women_wrestling: I prefer Tensorflow over Pytorch till my current intern.
 - :farmer: Helped 200+ people with their queries on the subject at DPhi Community.
 - :bookmark_tabs: Recent Article : <a href="https://dockship.io/articles/602e410afa687b1b152c8c19/pondering-over-the-methods-to-clean-data-in-ml-problems.">Pondering over the methods to clean data in ML-problems.</a>
-- :woman_juggling: Fun Fact: I keep learning new techniques by participanting in the weekly/monthly Hackathons. 
+- :woman_juggling: Fun Fact: I use to keep learning new techniques by participanting in the weekly/monthly Hackathons. 
 - :page_with_curl: Updated Resume : <a href="https://drive.google.com/file/d/1wcvVxtR0RZrwsnGRQn3q-BfVGr-bi__h/view?usp=sharing"> RESUME </a>
 
 
