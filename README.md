@@ -8,13 +8,13 @@
 
 Loves reading, learning, and researching about how AI has revolutionized the human-like task, making it possible to learn from its mistakes.
 ## About Me ⚡
-- :sassy_woman: Currently working as Data Science Intern at Subex - AI Labs.
-- :woman_technologist: I worked as Python Developer at William O'Neil's.
+- :sassy_woman: Currently working as a Senior Product Engineer at Fosfor - Spectra, LTIMindtree.
+- :woman_technologist: I worked as Python Developer at William O'Neil's and Data Science Intern at Subex - AI Labs.
 - :lotus_position: I worked as a RESEARCH intern at CSIR-CEERI, Pilani, Rajasthan, India, on Virtual Yoga Trainer via Deep Learning using Human Pose Detection.
 - :student: Final year at BITS-Pilani, Pilani Campus.
-- 🌱 I’m currently learning Inductive Graph Networks (GraphSage).
-- 🤔 I’m looking for help with NLP.
-- :snowman: Ask me about ML and DL and GNN.
+- 🌱 I’m currently learning Data Build Tool.
+- 🤔 I’m looking for help with Product Analysis.
+- :snowman: Ask me about ML and Analystics .
 - :e-mail: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-hrsht1998-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hrsht1998@gmail.com)](mailto:hrsht1998@gmail.com)
 - :chains: Connect to me on [![Linkedin Badge](https://img.shields.io/badge/-Harshita_Gupta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshita-gupta-b3b2a3186/)](https://www.linkedin.com/in/harshita-gupta-b3b2a3186/)
 - :women_wrestling: I prefer Tensorflow over Pytorch till my current intern.
